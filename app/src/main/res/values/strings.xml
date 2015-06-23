@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">CV Ernesto Vega</string>
+
+    <string name="title_section1">Experiencia</string>
+    <string name="title_section2">Formación</string>
+    <string name="action_contact">Contacto</string>
+    
+    <string name="exp_fecha1">Marzo 2014 - Actualmente</string>
+    <string name="exp_empresa1">Freelance - Android Developer</string>
+    <string name="exp_descripcion1">"MahjongScoring ha sido completamente diseñada, desarrollada y publicada por mi, y aprendí todo de modo completamente autodidacto. Comenzó siendo un proyecto Xamarin, pero debido a su elevado coste ha terminado siendo nativa.
+Esta aplicación contiene Fragments, ListViews, Adapters, Notificacions, Timers, Sonidos, BBDD SQLite, etc. y su interfaz está diseñada para ser redimensionable y adaptarse a cualquier tamaño de pantalla o dispositivo." </string>
+
+    <string name="exp_fecha2">Enero 2015 - Actualmente</string>
+    <string name="exp_empresa2">Sogeti - Programador</string>
+    <string name="exp_descripcion2">.NET, C#, DDD, MVC5, EF, HTML5, CSS3, JQuery, Bootstrap, WCF.\nProyecto de catalogación de fondo histórico de obras, basado en RDA.\nProyecto de gestión estadística de museos.</string>
+
+    <string name="exp_fecha3">Marzo 2013 - Enero 2015</string>
+    <string name="exp_empresa3">Cogesa - Programador</string>
+    <string name="exp_descripcion3">Administración y mantenimiento de sistemas y bbdd, pero principalmente captación de requisitos, diseño, desarrollo, implementación, prueba, implantación y mantenimiento de aplicaciones realizadas en C#.Net y PL/SQL, tanto
+Desktop (WPF y WCF con Visual Studio 2005-2012 y Sql Server 2008) como Mobile (Windows Mobile, Android (también en C#) con Visual Studio 2010, 2012 y Xamarin Plugin) y
+Web (Oracle Forms y Reports, Apex; usando Toad, Sql Developer y Apex). Bussiness Intelligence con Oracle Discoverer.</string>
+
+    <string name="exp_fecha4">Septiembre 2013 - Actualmente</string>
+    <string name="exp_empresa4">Freelance - Desarrollador y Administrador Web</string>
+    <string name="exp_descripcion4">De modo autodidacto y en paralelo a mi trayecto profesional, desarrollo y administro páginas web basadas en PHP, HTML5, CSS3 y jQuery, compatibles con todo tipo de dispositivos, con el CMS Wordpress. Las webs son: www.vitadinamita.com y www.mahjongscoring.com</string>
+
+    <string name="exp_fecha5">Enero 2013 - Marzo 2013</string>
+    <string name="exp_empresa5">Eptisa TI - Programador Freelance</string>
+    <string name="exp_descripcion5">Desarrollo, prueba y CAU, Intranet de la empresa con ASP.NET,  VisualBasic y SQL Server.</string>
+
+    <string name="exp_fecha6">Marzo 2014 - Actualmente</string>
+    <string name="exp_empresa6">Eptisa TI - Programador en prácticas</string>
+    <string name="exp_descripcion6">Desarrollo de evolutivos con J2EE, Struts, Servlets y JSPs.</string>
+
+
+
+    <string name="for_titulacion1">Formación Profesional de Grado Superior en Desarrollo de Aplicaciones Informáticas</string>
+    <string name="for_fecha1">Septiembre 2010 - Junio 2012</string>
+    <string name="for_empresa1">Cepal</string>
+
+    <string name="for_titulacion2">Microsoft Certified Programmer</string>
+    <string name="for_fecha2">Marzo 2013</string>
+    <string name="for_empresa2">HTML5 with JavaScript and CSS3 (70-480)</string>
+
+    <string name="for_titulacion3">Técnico especialista en Visual Studio 2010, ADO, ASP, VB y C# .NET.</string>
+    <string name="for_fecha3">Diciembre 2012 - Marzo 2013</string>
+    <string name="for_empresa3">Microforum</string>
+
+    <string name="for_titulacion4">Idioma Inglés</string>
+    <string name="for_empresa4">Nivel medio</string>
+    <string name="titulo">Currículum Vitae</string>
+    <string name="ernesto_foto">foto</string>
+    <string name="ernesto_nombre">Ernesto Vega de la Iglesia</string>
+    <string name="title_activity_contact">Contacto</string>
+    <string name="ernesto_mail">ernestovega85@gmail.com</string>
+    <string name="ernesto_logo">logo</string>
+
+
+</resources>
